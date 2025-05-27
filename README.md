@@ -18,5 +18,5 @@ Google日本語入力ですよね。
 追加したい語句があればPull Requestに，ミスがあればIssuesに，お願いします．
 
 ## 連絡先と、いえば～？
-Twitter：ゆぬゆ(https://x.com/nyrg_yny)
+Twitter：ゆぬゆ(https://x.com/nyrg_yny)  
 litlink：https://lit.link/yunuyuneyurigi
